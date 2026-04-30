@@ -11,6 +11,9 @@
   <a href="https://github.com/FireWall-code/FireWall-code/network/members">
     <img src="https://img.shields.io/github/forks/FireWall-code/FireWall-code?style=for-the-badge&logo=github&color=4E4E4E" alt="Forks" />
   </a>
+  <a href="https://github.com/FireWall-code">
+    <img src="https://komarev.com/ghpvc/?username=FireWall-code&style=for-the-badge&color=4E4E4E" alt="Profile views" />
+  </a>
 </p>
 
 ---
