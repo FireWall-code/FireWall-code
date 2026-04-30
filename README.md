@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Enzo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi, I'm Enzo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">Dev | Student | Tech Enthusiast</h3>
 
 <p align="center">
@@ -17,11 +17,11 @@
 
 ## About Me
 
-- I'm currently studying at **EFREI** in Paris
-- I work with **Python**, **JavaScript**, **C**, and **SQL**
-- I build tools, bots, and explore new tech projects
-- I love **Discord bots**, **web dev**, and **cybersecurity**
-- Always curious, always building
+- I'm currently studying at a **computer science school** in Paris
+- I work with **Python**, **PowerShell**, **JavaScript**, **C**, **HTML/CSS** and **React**
+- I build tools, automations, bots, and explore new tech projects
+- I love **Discord bots**, **web dev**, **cybersecurity**, and solving problems
+- Always curious, always building, always thinking
 
 ---
 
@@ -29,35 +29,30 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&labelColor=00599C" alt="C" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4479A1" alt="SQL" />
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A" alt="React" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white&labelColor=5391FE" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
+  <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="Windows Terminal" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=007ACC" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=5865F2" alt="Discord" />
-</p>
+  
 
+---
 
-<table>
+## Projects
+
+<table align="center">
   <tr>
     <td align="center" width="300">
       <a href="https://github.com/FireWall-code/ear-web-local">
         <strong>ear-web-local</strong>
-      </a><br/>
+      </a>
+      <br/>
       JavaScript
-    </td>
-    <td align="center" width="300">
-      <a href="https://github.com/FireWall-code/ear-web">
-        <strong>ear-web</strong>
-      </a><br/>
-      JavaScript - Web App
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300" colspan="2">
-      <a href="https://github.com/FireWall-code/Discord-Nitro-Perks">
-        <strong>Discord-Nitro-Perks</strong>
-      </a><br/>
-      JavaScript - Discord Bot Utility
     </td>
   </tr>
 </table>
@@ -83,17 +78,8 @@
   <a href="https://github.com/FireWall-code">
     <img src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://discord.com">
+  <a href="https://discord.com/users/1300753962563010592">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
 
----
-
-<p align="center">Made with <3 and a lot of coffee</p>
----
-
-## Projects
