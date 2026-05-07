@@ -15,9 +15,9 @@
     <img src="https://komarev.com/ghpvc/?username=FireWall-code&style=for-the-badge&color=4E4E4E" alt="Profile views" />
   </a>
 </p>
-<p align="center">
+<h4 align="center">
   Building controlled, resilient and intelligent systems.
-</p>
+</h4>
 ---
 
 ## About Me
