@@ -15,16 +15,22 @@
     <img src="https://komarev.com/ghpvc/?username=FireWall-code&style=for-the-badge&color=4E4E4E" alt="Profile views" />
   </a>
 </p>
-
+<p align="center">
+  Building controlled, resilient and intelligent systems.
+</p>
 ---
 
 ## About Me
 
 - I'm currently studying at a **computer science school** in Paris
 - I work with **Python**, **PowerShell**, **JavaScript**, **C**, **HTML/CSS** and **React**
-- I build tools, automations, bots, and explore new tech projects
-- I love **Discord bots**, **web dev**, **cybersecurity**, and solving problems
-- Always curious, always building, always thinking
+- I build **tools**, **automations**, **utilities**, and **systems** focused on: 
+- control
+- resilience
+- intelligent
+- reliability
+- I love **Innovation**, **web dev**, **cybersecurity**, explore new tech projects and solving problems
+- Always thinking, always building, always curious
 
 ---
 
