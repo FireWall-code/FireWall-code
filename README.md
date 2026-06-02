@@ -77,12 +77,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FireWall-code&show_icons=true&theme=dark&bg_color=0d1117" height="170" alt="Stats" />
+      <img src="https://github-readme-stats-gbt27b93j-firewall-codes-projects.vercel.app/api?username=FireWall-code&show_icons=true&theme=dark&bg_color=0d1117&cache_seconds=86400" height="170" alt="Stats"  />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FireWall-code&theme=dark&background=0d1117" height="170" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FireWall-code&layout=compact&theme=dark&bg_color=0d1117" height="170" alt="Languages" />
+      <img src="https://github-readme-stats-gbt27b93j-firewall-codes-projects.vercel.app/api/top-langs/?username=FireWall-code&layout=compact&theme=dark&bg_color=0d1117&cache_seconds=86400" height="170" alt="Languages" />
 </p>
 
 ---
