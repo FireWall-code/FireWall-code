@@ -49,7 +49,6 @@
   <img src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="Windows Terminal" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=007ACC" alt="VS Code" />
   
-
 ---
 
 ## Projects
@@ -72,6 +71,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ## GitHub Stats
@@ -97,4 +97,3 @@
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </p>
-
