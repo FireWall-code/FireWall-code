@@ -54,7 +54,7 @@
 
 ## Projects
 
-<table align="center">
+<table align="center" cellpadding="10">
   <tr>
     <td align="center" width="300">
       <a href="https://github.com/FireWall-code/ear-web-local">
@@ -63,9 +63,15 @@
       <br/>
       JavaScript
     </td>
+    <td align="center" width="300">
+      <a href="https://github.com/FireWall-code/TidaLuna-Plugins">
+        <strong>SMTC-TidaLuna</strong>
+      </a>
+      <br/>
+      JavaScript
+    </td>
   </tr>
 </table>
-
 ---
 
 ## GitHub Stats
