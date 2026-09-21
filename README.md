@@ -77,20 +77,18 @@
 ---
 
 ## GitHub Stats
-
-<table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
-  <tr style="border: none;">
-    <td valign="middle" style="border: none;">
-      <img src="https://ghstats.dev/api/card?username=FireWall-code&theme=midnight&show_ring=false&hide=grade" alt="GitHub Stats Card" />
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://ghstats.dev/api/card?username=FireWall-code&theme=midnight&show_ring=false&hide=grade" height="380" />
     </td>
-    <td valign="middle" style="border: none;">
-      <img src="https://ghstats.dev/api/langs?username=FireWall-code&theme=midnight&max_langs=10&layout=horizontal_list" alt="Top Languages" /><br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=FireWall-code&theme=dark&background=0d1117" height="182" alt="Streak" />
+    <td valign="top">
+      <img src="https://ghstats.dev/api/langs?username=FireWall-code&theme=midnight&max_langs=10&layout=horizontal_list" height="190" />
+      <hr style="visibility: hidden; margin: 3px 0; border: 0;" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=FireWall-code&theme=dark&background=0d1117" height="182" />
     </td>
   </tr>
 </table>
----
-
 ## Connect with me
 
 <p align="center">
