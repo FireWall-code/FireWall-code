@@ -78,15 +78,17 @@
 
 ## GitHub Stats
 
-<p align="center">
-      <img src="https://github-readme-stats-gbt27b93j-firewall-codes-projects.vercel.app/api?username=FireWall-code&show_icons=true&theme=dark&bg_color=0d1117&cache_seconds=86400" height="170" alt="Stats"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FireWall-code&theme=dark&background=0d1117" height="170" alt="Streak" />
-</p>
-
-<p align="center">
-      <img src="https://github-readme-stats-gbt27b93j-firewall-codes-projects.vercel.app/api/top-langs/?username=FireWall-code&layout=compact&theme=dark&bg_color=0d1117&cache_seconds=86400" height="170" alt="Languages" />
-</p>
-
+<table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td valign="middle" style="border: none;">
+      <img src="https://ghstats.dev/api/card?username=FireWall-code&theme=midnight&show_ring=false&hide=grade" alt="GitHub Stats Card" />
+    </td>
+    <td valign="middle" style="border: none;">
+      <img src="https://ghstats.dev/api/langs?username=FireWall-code&theme=midnight&max_langs=10&layout=horizontal_list" alt="Top Languages" /><br/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=FireWall-code&theme=dark&background=0d1117" height="182" alt="Streak" />
+    </td>
+  </tr>
+</table>
 ---
 
 ## Connect with me
