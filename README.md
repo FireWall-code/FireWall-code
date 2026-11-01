@@ -58,8 +58,15 @@
 <table align="center" cellpadding="10">
   <tr>
     <td align="center" width="300">
+      <a href="https://github.com/FireWall-code/resonance-for-sony">
+        <strong>Resonance For Sony</strong>
+      </a>
+      <br/>
+      JavaScript
+    </td>
+    <td align="center" width="300">
       <a href="https://github.com/FireWall-code/ear-web-local">
-        <strong>ear-web-local</strong>
+        <strong>Ear-web-local</strong>
       </a>
       <br/>
       JavaScript
