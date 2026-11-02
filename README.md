@@ -62,7 +62,7 @@
         <strong>Resonance For Sony</strong>
       </a>
       <br/>
-      JavaScript
+      C#
     </td>
     <td align="center" width="300">
       <a href="https://github.com/FireWall-code/ear-web-local">
@@ -76,7 +76,7 @@
         <strong>TidaLuna-Plugins</strong>
       </a>
       <br/>
-      JavaScript
+      TypeScript
     </td>
   </tr>
 </table>
