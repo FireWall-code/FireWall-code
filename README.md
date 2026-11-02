@@ -73,7 +73,7 @@
     </td>
     <td align="center" width="300">
       <a href="https://github.com/FireWall-code/TidaLuna-Plugins">
-        <strong>SMTC-TidaLuna</strong>
+        <strong>TidaLuna-Plugins</strong>
       </a>
       <br/>
       JavaScript
